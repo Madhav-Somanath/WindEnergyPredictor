@@ -1,5 +1,5 @@
 import streamlit as slt 
-from sklearn.externals import joblib
+import joblib
 import random
 import time
 from PIL import Image
