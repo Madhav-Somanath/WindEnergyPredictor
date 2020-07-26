@@ -4,4 +4,6 @@
 
 Time series model built for IBM Hack 2020 challenge.
 
-**For a live preview click [here](https://windenergypredictor.herokuapp.com/)** 
+# Deployment
+
+For a live preview click **[here](https://windenergypredictor.herokuapp.com/)** 
