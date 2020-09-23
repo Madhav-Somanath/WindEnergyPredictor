@@ -4,6 +4,8 @@ import random
 import time
 from PIL import Image
 
+slt.beta_set_page_config(page_title="Wind Energy Predictor", page_icon="🌪")
+
 def main():
     model = joblib.load("lasso.pk1")
     day = random.randint(1,30)
