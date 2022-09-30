@@ -1,4 +1,4 @@
 streamlit==0.61.0
 sklearn==0.0
 Pillow==7.1.2
-joblib==0.14.1
+joblib==1.2.0
